@@ -98,7 +98,6 @@ final brekaFastComponent = Container(
               )
             ],
           )),
-      Positioned(child: Icon(Icons.cleaning_services))
     ],
   ),
 );
